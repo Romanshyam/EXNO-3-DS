@@ -32,6 +32,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
 # CODING AND OUTPUT:
 Developed by: Shyam kumar.E
+
 Register number: 212223230207
 
 ![image](https://github.com/Meenu2823/EXNO-3-DS/assets/139416219/901b3edb-9e5e-4e2b-9bd9-fc35ad5a413e)
